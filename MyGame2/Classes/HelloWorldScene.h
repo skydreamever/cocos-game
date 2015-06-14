@@ -17,6 +17,13 @@ public:
     
     // implement the "static create()" method manually
     CREATE_FUNC(HelloWorld);
+    
+public:
+    void loadingDone(Node* pNode); // 从开始界面 跳到游戏界面
+    void PreloadMusicAndPicture(); // 预加载音乐和图片
+    
 };
+
+
 
 #endif // __HELLOWORLD_SCENE_H__

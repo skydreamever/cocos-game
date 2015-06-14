@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>29F40CA8-D35C-4B43-BE99-0BC866046930</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>MyGame1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>F4C32F1CD8DF1CF1DDDB611BD279B3099A1FA9AD</key>
 		<string>https://github.com/skydreamever/cocos-game.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MyGame1/proj.ios_mac/MyGame1.xcodeproj/project.xcworkspace</string>
+	<string>MyGame1/proj.ios_mac/MyGame1.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>F4C32F1CD8DF1CF1DDDB611BD279B3099A1FA9AD</key>
